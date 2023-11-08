@@ -1,0 +1,1 @@
+# ClientesInternos: Este foi meu primeiro projeto, ainda em fase acadêmica. O objetivo deste projeto é controlar os clientes cadastrados, visando que todos são autarquias municipais. Lembrando que este código está completo e em pleno funcionamento, porém como já é um projeto antigo, serve apenas para estudos, pois não darei continuidade em implementações futuras.
