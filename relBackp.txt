@@ -1,0 +1,42 @@
+*===========================================*
+| CONEXÃO: ABDON BATISTA                    |
+| EMISSÃO: 04/12/2018                       |
+*===========================================*
+
+*===========================================*
+|STATUS                 | DATA              |
+|-------------------------------------------|
+|EXISTENTE              |    01/12/2018     |
+|EXISTENTE              |    02/12/2018     |
+|EXISTENTE              |    03/12/2018     |
+|INEXISTENTE            |    04/12/2018     |
+|INEXISTENTE            |    05/12/2018     |
+|INEXISTENTE            |    06/12/2018     |
+|INEXISTENTE            |    07/12/2018     |
+|INEXISTENTE            |    08/12/2018     |
+|INEXISTENTE            |    09/12/2018     |
+|INEXISTENTE            |    10/12/2018     |
+|INEXISTENTE            |    11/12/2018     |
+|INEXISTENTE            |    12/12/2018     |
+|INEXISTENTE            |    13/12/2018     |
+|INEXISTENTE            |    14/12/2018     |
+|INEXISTENTE            |    15/12/2018     |
+|INEXISTENTE            |    16/12/2018     |
+|INEXISTENTE            |    17/12/2018     |
+|INEXISTENTE            |    18/12/2018     |
+|INEXISTENTE            |    19/12/2018     |
+|INEXISTENTE            |    20/12/2018     |
+|INEXISTENTE            |    21/12/2018     |
+|INEXISTENTE            |    22/12/2018     |
+|INEXISTENTE            |    23/12/2018     |
+|INEXISTENTE            |    24/12/2018     |
+|INEXISTENTE            |    25/12/2018     |
+|INEXISTENTE            |    26/12/2018     |
+|INEXISTENTE            |    27/12/2018     |
+|INEXISTENTE            |    28/12/2018     |
+|INEXISTENTE            |    29/12/2018     |
+|INEXISTENTE            |    30/12/2018     |
+|INEXISTENTE            |    31/12/2018     |
+*===========================================*
+              Qtd Existentes: 3              
+            Qtd Inexistentes: 28             
